@@ -30,6 +30,7 @@ const k_muppet = {
   k_job: 'Host of The Muppet Show',
   k_partner: 'Miss Piggy'
 };
+
 const{name, color, song, job, partner} = muppet;
 const{song_2, song_4} = k_muppet.k_album.the_muppet_movie;
 const{k_job, k_partner} = k_muppet;
